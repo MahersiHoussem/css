@@ -1,0 +1,34 @@
+.navbar{
+    background-color:burlywood;
+}
+body{
+    text-align: center;
+    color:white ;
+
+}
+#about{
+    background-color: dimgrey;
+
+}
+
+#work{
+    background-image: linear-gradient(to right, red , blue);
+
+}
+
+#resume{
+    position: relative;
+    background-image: url(../image/website.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contact{
+    color: black;
+    background-color: blue;
+}
+footer{
+    color: black;
+    padding-top: 10px;
+    background-image: linear-gradient(red, yellow, blue);
+
+}
